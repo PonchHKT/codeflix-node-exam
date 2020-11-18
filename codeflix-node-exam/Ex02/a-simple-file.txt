@@ -1,3 +1,2 @@
-SEX
-
-PENIS
+Testing mycat 2.2 with line 1
+Testing mycat 2.2 with line 2
